@@ -5,3 +5,12 @@
 	- 참조 : https://velog.io/@ahnsanghyeon/VSCode%EC%97%90%EC%84%9C-Git-%EC%97%B0%EB%8F%99%ED%95%98%EA%B8%B0
 - vscode 한글 깨짐
 	- 참조 : https://nanglam.tistory.com/9
+- vscode git clone
+	- 참조 : https://bba-jin.tistory.com/50
+	- 현재 work space 닫은후 좌측에서 source control- clone 실행~
+- vscode Get 'Bad credentials' when using Clone Repository
+	- 참조 : https://stackoverflow.com/questions/62108961/vs-code-get-bad-credentials-when-using-clone-repository
+	- 자격증명관리자 - windows자격증명-vscode-githublogin/계정 제거 후 vscode 제실행
+- vscode 폴더 닫는 법
+	- 참조 : https://walkingfox.tistory.com/160
+	- 왼쪽 여백 위 우클 Remove folder from workspace
